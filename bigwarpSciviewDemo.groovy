@@ -4,6 +4,8 @@
 #@ SciView sciView
 #@ OpService opService
 
+// Script written by John Bogovic (https://github.com/bogovicj) and Kyle Harrington (https://kyleharrington.com)
+
 import bdv.util.*;
 import bdv.viewer.*;
 import net.imagej.*;
